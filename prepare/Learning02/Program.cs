@@ -41,18 +41,5 @@ class Program
 
         resume.DisplayResumeDetails();
 
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
