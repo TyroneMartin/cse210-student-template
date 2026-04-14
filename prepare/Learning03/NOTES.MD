@@ -6,7 +6,9 @@ Practice the principle of encapsulation by creating classes to hold a fraction, 
 
 ### Design the Classes
 
-![UML design showing a Fraction Class Diagram](/images/learning_03_uml.png)
+![UML design showing two classes: Resume and Job, along with their attributes and respective methods](/images/prep_01_uml.png)
+
+No relationships were established since this only involves a single Function class.
 
 
 
